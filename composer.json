@@ -1,0 +1,13 @@
+{
+    "name": "thomas/edmond",
+    "require": {
+        "react/zmq": "^0.3.0",
+        "zendframework/zend-diactoros": "^1.3"
+    },
+    "authors": [
+        {
+            "name": "Thomas",
+            "email": "gmomato@gmail.com"
+        }
+    ]
+}
